@@ -1,16 +1,47 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<div>
+ <a href = "mailto:matheus.cwb2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-benatti-software-engineer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<!--
-**benattimatheus/benattimatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to my profile and I hope you like it here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public Information
+
+My name is Matheus Benatti and I'm a Software Engineer student. I currently live in Paraná, Brazil.
+
+Nowadays I'm studying and improving my Web Development and Python skills.
+
+## Detailed Information
+
+• Name: Matheus Benatti
+
+• Age: 18
+
+• Living in: Curitiba - PR, Brazil
+
+• Stack: Python - SQL - HTML - CSS
+
+• University: Unicesumar. Software Engineering degree
+
+<div>
+<img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="Matheus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="Matheus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
+## Curiosities about me
+
+• My first contact with coding was creating a Minecraft Server to play with some friends;
+
+• I was part of an Youtuber Discord community and that's where i spoke for the first time with some developers and programmers;
+
+• I like helping people.
+
+##
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=benattimatheus&count_private=true&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benattimatheus&layout=compact&theme=transparent)](https://github.com/benattimatheus/github-readme-stats)
