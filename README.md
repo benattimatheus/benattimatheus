@@ -30,6 +30,7 @@ Nowadays I'm studying and improving my Web Development and Python skills.
 <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="Matheus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ 
 </div>
 
 ## Curiosities about me
@@ -43,5 +44,7 @@ Nowadays I'm studying and improving my Web Development and Python skills.
 ##
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=benattimatheus&count_private=true&show_icons=true&theme=transparent)
+
+<img align="right" alt="Matheus-Python" height="110" width="160" src="https://cdn.discordapp.com/attachments/807832407729373255/1079465905681084456/penguin-hi.gif" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benattimatheus&layout=compact&theme=transparent)](https://github.com/benattimatheus/github-readme-stats)
