@@ -43,8 +43,8 @@ Nowadays I'm studying and improving my Web Development and Python skills.
 
 ##
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=benattimatheus&count_private=true&show_icons=true&theme=transparent)
-
 <img align="right" alt="Matheus-Python" height="110" width="160" src="https://cdn.discordapp.com/attachments/807832407729373255/1079465905681084456/penguin-hi.gif" />
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=benattimatheus&count_private=true&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benattimatheus&layout=compact&theme=transparent)](https://github.com/benattimatheus/github-readme-stats)
