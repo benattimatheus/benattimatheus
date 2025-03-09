@@ -12,7 +12,6 @@ Welcome to my profile and I hope you like it here.
 
 My name is Matheus Benatti and I'm a Software Engineer student. I currently live in Paraná, Brazil.
 
-Nowadays I'm studying and improving my Web Development and Python skills.
 
 ## Detailed Information
 
@@ -32,14 +31,6 @@ Nowadays I'm studying and improving my Web Development and Python skills.
 <img align="center" alt="Matheus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
 </div>
-
-## Curiosities about me
-
-• My first contact with coding was creating a Minecraft Server to play with some friends;
-
-• I was part of an Youtuber Discord community and that's where i spoke for the first time with some developers and programmers;
-
-• I like helping people.
 
 ##
 
