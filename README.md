@@ -10,14 +10,14 @@ Welcome to my profile and I hope you like it here.
 
 ## Public Information
 
-My name is Matheus Benatti and I'm a Software Engineer student. I currently live in Paraná, Brazil.
+My name is Matheus Benatti and I'm a Data Analyst. I currently live in Paraná, Brazil.
 
 
 ## Detailed Information
 
 • Name: Matheus Benatti
 
-• Age: 19
+• Age: 21
 
 • Living in: Curitiba - PR, Brazil
 
